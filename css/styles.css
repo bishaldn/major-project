@@ -601,6 +601,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  padding: 0px 29px 6px 20px;
 }
 
 .img-thumbnail {
@@ -11285,4 +11286,5 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  
 }
